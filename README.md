@@ -1,3 +1,3 @@
 # LeetCode-Medium
 
-Practice my coding.# LeetCode-Mediu
+Practice my coding.# LeetCode-Medium
