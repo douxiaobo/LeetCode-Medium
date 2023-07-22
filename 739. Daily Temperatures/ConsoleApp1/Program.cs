@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(DailyTemperatures2(new int[] { 35, 31, 33, 36, 34 }));
+            Console.ReadKey();
         }
         public int[] DailyTemperatures(int[] temperatures)
         {
@@ -46,5 +48,20 @@ namespace ConsoleApp1
             }
             return res;
         }//Runtime:362 ms Beats:31.47% Memory:63.5 MB Beats:44.87%
+        public static int[] DailyTemperatures2(int[] temperatures)
+        {
+            int[] result = new int[temperatures.Length];
+            Stack<int> stack = new Stack<int>();
+            for (int i = 0; i < temperatures.Length; i++)
+            {
+                while (stack.Count > 0 && temperatures[i] > temperatures[stack.Peek()])
+                {
+                    int prev = stack.Pop();
+                    result[prev] = i - prev;
+                }
+                stack.Push(i);
+            }
+            return result;
+        }//Runtime:329 ms Beats:81.70% Memory:64.2 MB Beats:21.65%
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\LeetCode-Medium\676. Implement Magic Dictionary\TriePrefixTree\bin\Debug\TriePrefixTree.exe.config
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\LeetCode-Medium\676. Implement Magic Dictionary\TriePrefixTree\bin\Debug\TriePrefixTree.exe
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\LeetCode-Medium\676. Implement Magic Dictionary\TriePrefixTree\bin\Debug\TriePrefixTree.pdb
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\LeetCode-Medium\676. Implement Magic Dictionary\TriePrefixTree\obj\Debug\TriePrefixTree.csproj.AssemblyReference.cache
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\LeetCode-Medium\676. Implement Magic Dictionary\TriePrefixTree\obj\Debug\TriePrefixTree.csproj.SuggestedBindingRedirects.cache
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\LeetCode-Medium\676. Implement Magic Dictionary\TriePrefixTree\obj\Debug\TriePrefixTree.csproj.CoreCompileInputs.cache
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\LeetCode-Medium\676. Implement Magic Dictionary\TriePrefixTree\obj\Debug\TriePrefixTree.exe
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\LeetCode-Medium\676. Implement Magic Dictionary\TriePrefixTree\obj\Debug\TriePrefixTree.pdb
